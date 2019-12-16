@@ -10,7 +10,7 @@ public class Main {
         Random random = new Random();
         StringBuffer word = null;
 
-        switch (random.nextInt(2)) {
+        switch (random.nextInt(3)) {
             case 0:
                 word = new StringBuffer('Y');
             case 1:
