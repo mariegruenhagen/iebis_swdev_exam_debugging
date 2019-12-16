@@ -24,7 +24,7 @@ Your goal is to fix the code changing the code as little as possible. Obviously 
 
 1. The first bug is the replace method. All the dots "." should be changed to "\\.". All the "/" should stay the same.
 2. The second bug is that the limit of the switch is set to 2. For this exercise we need to be able to reach the highest int, in this case that would be 3 because there is 3 options ("Tour" "Four" and "Your")
-3. 
+3. the "break" line was missing for the methods in case.
 
 ======================================================================
 
